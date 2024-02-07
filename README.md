@@ -4,7 +4,6 @@ This README outlines the steps you need to follow to use the provided template f
 
 ## Getting Started on Replit
 
-1. Sign up for an account on Replit if you haven't already.
 [![Run on Replit](https://replit.com/badge/github/ornellaatreplit/company-website-demo)](https://replit.com/new/github/ornellaatreplit/company-website-demo)
 
 ## Customizing Your Website
